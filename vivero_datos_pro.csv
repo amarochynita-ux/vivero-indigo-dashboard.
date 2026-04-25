@@ -1,0 +1,11 @@
+ID,Nombre,Tipo,Precio,Costo,Stock,Vendidas
+1,Suculenta,Interior,85,40,45,25
+2,Helecho,Interior,120,65,20,15
+3,Orquídea,Interior,450,250,10,5
+4,Pino,Exterior,850,500,5,2
+5,Palmera,Exterior,620,380,15,8
+6,Lavanda,Exterior,45,20,60,40
+7,Rosal,Exterior,180,90,25,10
+8,Cactus,Interior,35,15,100,50
+9,Potus,Interior,95,45,30,20
+10,Hortensia,Exterior,220,120,12,7

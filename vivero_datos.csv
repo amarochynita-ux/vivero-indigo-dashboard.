@@ -1,0 +1,16 @@
+ID,Nombre,Tipo,Precio,Stock,Nivel_Cuidado,Ultima_Riego
+1,Suculenta,Interior,85.5,45,Bajo,2026-04-15
+2,Helecho,Sombra,120.0,20,Medio,2026-04-17
+3,Orquídea,Interior,450.0,10,Alto,2026-04-18
+4,Pino,Sol Directo,850.0,5,Bajo,2026-04-12
+5,Palmera,Exterior,620.0,15,Bajo,2026-04-14
+6,Lavanda,Sol Directo,45.0,60,Bajo,2026-04-16
+7,Rosal,Exterior,180.0,25,Alto,2026-04-17
+8,Cactus,Interior,35.0,100,Bajo,2026-04-10
+9,Potus,Sombra,95.0,30,Bajo,2026-04-15
+10,Hortensia,Sombra,220.0,12,Medio,2026-04-16
+11,Anturio,Interior,320.0,8,Alto,2026-04-18
+12,Cuna de Moisés,Sombra,150.0,18,Bajo,2026-04-17
+13,Bonsai,Interior,1200.0,3,Alto,2026-04-18
+14,Menta,Exterior,25.0,40,Bajo,2026-04-17
+15,Albahaca,Sol Directo,25.0,35,Medio,2026-04-16
