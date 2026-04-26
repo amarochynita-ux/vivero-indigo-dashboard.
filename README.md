@@ -11,6 +11,6 @@ Este proyecto es una aplicación web interactiva desarrollada en **Python** dise
 ## 🛠️ Tecnologías
 Python, Streamlit, Pandas y Plotly.
 
-# 🌿 Dashboard Vivero la Indigo
+# 🌿 Dashboard Vivero  Indigo
 Puedes ver la aplicación en vivo aquí: [Ver Dashboard](https://vivero-la-indigo.streamlit.app/)
 
