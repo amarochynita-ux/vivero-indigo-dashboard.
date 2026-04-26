@@ -1,4 +1,4 @@
-# 🌿 Vivero la Indigo - Dashboard de Gestión
+# 🌿 Vivero Indigo - Dashboard de Gestión
 
 Este proyecto es una aplicación web interactiva desarrollada en **Python** diseñada para optimizar la administración operativa y financiera de un vivero.
 
